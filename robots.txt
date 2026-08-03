@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-4w485x.29empire3hyp.cfd/sitemap.xml
